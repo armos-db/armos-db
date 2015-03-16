@@ -6,4 +6,4 @@
 	url = https://github.com/armos-db/leveldb.git
 [submodule "src/paxos"]
 	path = src/paxos
-	url = ./src/paxos
+	url = https://github.com/armos-db/libpaxos-cpp.git
