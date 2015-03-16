@@ -1,6 +1,6 @@
 [submodule "src/consistent_hash"]
 	path = src/consistent_hash
-	url = ./src/consistent_hash
+	url = https://github.com/armos-db/consistent_hash.git
 [submodule "src/leveldb"]
 	path = src/leveldb
 	url = ./src/leveldb
