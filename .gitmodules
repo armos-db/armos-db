@@ -3,7 +3,7 @@
 	url = https://github.com/armos-db/consistent_hash.git
 [submodule "src/leveldb"]
 	path = src/leveldb
-	url = ./src/leveldb
+	url = https://github.com/armos-db/leveldb.git
 [submodule "src/paxos"]
 	path = src/paxos
 	url = ./src/paxos
