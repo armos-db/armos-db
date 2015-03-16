@@ -1,0 +1,9 @@
+[submodule "src/consistent_hash"]
+	path = src/consistent_hash
+	url = ./src/consistent_hash
+[submodule "src/leveldb"]
+	path = src/leveldb
+	url = ./src/leveldb
+[submodule "src/paxos"]
+	path = src/paxos
+	url = ./src/paxos
