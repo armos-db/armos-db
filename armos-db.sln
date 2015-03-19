@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "consistent_hash", "src\cons
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leveldb", "src\leveldb\leveldb.vcxproj", "{49B37B3D-BF9A-459E-A818-C1401BA59103}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leveldb_test", "src\leveldb_test\leveldb_test.vcxproj", "{C8CA53BA-32F7-4B23-AD45-E06DD9A06F9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -47,6 +49,10 @@ Global
 		{49B37B3D-BF9A-459E-A818-C1401BA59103}.Debug|Win32.Build.0 = Debug|Win32
 		{49B37B3D-BF9A-459E-A818-C1401BA59103}.Release|Win32.ActiveCfg = Release|Win32
 		{49B37B3D-BF9A-459E-A818-C1401BA59103}.Release|Win32.Build.0 = Release|Win32
+		{C8CA53BA-32F7-4B23-AD45-E06DD9A06F9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C8CA53BA-32F7-4B23-AD45-E06DD9A06F9B}.Debug|Win32.Build.0 = Debug|Win32
+		{C8CA53BA-32F7-4B23-AD45-E06DD9A06F9B}.Release|Win32.ActiveCfg = Release|Win32
+		{C8CA53BA-32F7-4B23-AD45-E06DD9A06F9B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

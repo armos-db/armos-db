@@ -7,3 +7,6 @@
 [submodule "src/paxos"]
 	path = src/paxos
 	url = https://github.com/armos-db/libpaxos-cpp.git
+[submodule "src/msgpack-c"]
+	path = src/msgpack-c
+	url = https://github.com/armos-db/msgpack-c.git
